@@ -8,4 +8,4 @@ Khi báo lỗi bạn vui lòng cung cấp các thông tin chi tiết để chún
 
 3. Cung cấp thông tin trình duyệt/ thiết bị mà bạn sử dụng để truy cập
 
-4. Chụp hình lại màn hình bị lỗi và gửi lại cho chúng tôi!
+4. Chụp hình màn hình chỗ bị lỗi và gửi lại cho chúng tôi!
